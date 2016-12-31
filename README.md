@@ -32,5 +32,5 @@ Add jar to your project. Simply create a object of `JStyler`.
 Now you can set styled text to your component using
   `new JButton(styler.getStyledText());`
 
-![Image](http://imgur.com/a/b4sy9)
+![demo image](http://i.imgur.com/KyOZPeA.png)
        
