@@ -1,7 +1,7 @@
 # JStyler
 Simple library to style text for JButton, JToggleButton, JLabel, JCheckBox, JRadioButton
 
-Download here (https://malindawmd.github.io/JStyler/)
+Download ![here](http://www.mediafire.com/file/0wc2fc0pgkipvhg/Styler.rar)
 
 # Usage
 
@@ -32,6 +32,7 @@ Add jar to your project. Simply create a object of `JStyler`.
   `styler.centerAll()`
   
 Now you can set styled text to your component using
+
   `new JButton(styler.getStyledText());`
 
 ![demo image](http://i.imgur.com/KyOZPeA.png)
