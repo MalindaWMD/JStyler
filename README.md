@@ -1,10 +1,12 @@
 # JStyler
 Simple library to style text for JButton, JToggleButton, JLabel, JCheckBox, JRadioButton
 
+Download here (https://malindawmd.github.io/JStyler/)
 
 # Usage
 
 Add jar to your project. Simply create a object of `JStyler`.
+
 ` JStyler styler = new JStyler();`
 
 * Add link
