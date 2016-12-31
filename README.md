@@ -35,5 +35,7 @@ Now you can set styled text to your component using
 
   `new JButton(styler.getStyledText());`
 
+
+
 ![demo image](http://i.imgur.com/KyOZPeA.png)
        
