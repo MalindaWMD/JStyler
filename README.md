@@ -1,7 +1,7 @@
 # JStyler
 Simple library to style text for JButton, JToggleButton, JLabel, JCheckBox, JRadioButton
 
-Download ![here](http://www.mediafire.com/file/0wc2fc0pgkipvhg/Styler.rar)
+Download [here](http://www.mediafire.com/file/0wc2fc0pgkipvhg/Styler.rar)
 
 # Usage
 
